@@ -1,0 +1,363 @@
+body {
+    background-color: #F1F1F1;
+}
+.my-blocg {
+    text-align: center;
+}
+.blog {
+    font-size: 40px;
+    line-height: 100px;
+}
+.unknown {
+    background-color: #000000;
+    color: white;
+    padding: 5px;
+}
+.title {
+    margin: 1em;
+}
+.woods {
+    width: 65%;
+    margin-top: 4em;
+    margin-left: 1em;
+    background-color: white;
+    height: 600px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    float: left;
+    overflow: hidden;
+}
+.image img {
+    width: 100%;
+    height: 250px;
+}
+.heading {
+    line-height: 50px;
+    font-size: 25px;
+    font-weight: unset;
+  }
+.description {
+    line-height: 40px;
+}
+.april {
+    color: #848484;
+}
+.all-text {
+    margin-top: 1em;
+}
+.text {
+    font-size: 13px;
+    line-height: 25px;
+}
+.read-more {
+    margin: 2em;
+    margin-left: 1em;
+    width: 120px;
+    padding: 1em;
+    border-style: groove;
+    border-color: #a8a6a6;
+    border-width: 1px;
+    height: 20px;
+    text-align: center;
+    float: left;
+    overflow: hidden;
+}
+.read {
+    font-size: 14px;
+}
+.icon {
+    font-size: 10px;
+    display: inline;
+}
+.read-more:hover {
+    background-color: #CCCCCC;
+}
+.Comments {
+    margin: 3em;
+    float: right;
+    overflow: hidden;
+}
+.comments {
+    float: left;
+    overflow: hidden;
+}   
+.zearo {
+    display: inline;
+    background-color: #000000;
+    color: white;
+    padding: 8px;
+    margin-left: 1em;
+} 
+.my-name {
+    float: right;
+    overflow: hidden;
+    margin-top: 4em;
+    margin-right: 1em;
+    background-color: white;
+    height: 420px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+
+}
+.image-2 img {
+    width: 400px;
+}
+.all-text-2 {
+    margin-left: 1em;
+}
+.heading-2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 50px;
+}
+.text-2 {
+    line-height: 25px;
+    font-size: 14px;
+}
+.blog-entry {
+    width: 65%;
+    margin-top: 3em;
+    margin-left: 1em;
+    background-color: white;
+    height: 580px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    float: left;
+    overflow: hidden;
+}
+.image-3 img {
+    width: 100%;
+}
+.twe {
+    display: inline-block;
+    background-color: #000000;
+    color: white;
+    padding: 8px;
+    margin-left: 2em;
+    border-radius: 20em;
+    height: 10px;
+    text-align: center;
+    padding-bottom: 12px;
+    padding-top: 4px;
+}
+.popular-posts {
+    float: right;
+    overflow: hidden;
+    width: 400px;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    background-color: white;
+    height: 450px;
+    margin-right: 1em;
+    margin-top: -9em;
+}
+.heading-4 {
+    width: 400px;
+    background-color: #F1F1F1;
+    height: 30px;
+    font-size: 20px;
+    padding: 20px;
+}
+.popular-posts img {
+    width: 50px;
+    float: left;
+}
+.image-5 {
+    padding: 15px;
+}
+.image-5:hover {
+    background-color: #CCCCCC;
+}
+.heading-5 {
+    font-weight: 500;
+    font-size: 20px;
+}
+.hr {
+    color: white;
+}
+.text-3 {
+    margin-left: 4em;
+    line-height: 25px;
+}
+.tage {
+    float: right;
+    margin-right: 1em;
+    margin-top: 2em;
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+    background-color: white;
+    height: 230px;
+    width: 400px;
+}
+.toll {
+    font-size: 12px;
+    line-height: 10px;
+}
+.heading-6 {
+    width: 360px;
+    background-color: #F1F1F1;
+    height: 30px;
+    font-size: 20px;
+    padding: 20px;
+}
+.travel {
+    width: 60px;
+    height: 17px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 4px;
+    margin: 1em;
+    float: left;
+    font-size: 17px;
+    margin-top: 1em;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+.new-york {
+    width: 62px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.loandon {
+    width: 50px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.ikea {
+    width: 40px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.norway {
+    width: 62px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.diy {
+    width: 30px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.ideas {
+    width: 40px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 17px;
+    clear: both;
+    float: left;
+    margin-top: 22px;
+}
+.baby {
+    width: 40px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.family {
+    width: 45px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.news {
+    width: 40px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.clotheing {
+    width: 55px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.shopping {
+    width: 62px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    float: left;
+    margin-top: 22px;
+}
+.sports  {
+    width: 45px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 17px;
+    clear: both;
+    float: left;
+    margin-top: 22px;
+}
+.games {
+    width: 45px;
+    height: 16px;
+    background-color: #E3E3E3;
+    margin-left: 5px;
+    clear: both;
+    float: left;
+    margin-top: 22px;
+}
+.footer  {
+    clear: both;
+    width: 1336px;
+    height: 200px;
+    background-color: #616161;
+    margin-top: 83em;
+    margin-left: -10px;
+    padding: 1em;
+}
+.previous {
+    width: 90px;
+    height: 20px;
+    margin: 2em;
+    background-color: #434343;
+    padding: 1em;
+    clear: both;
+    text-align: center;
+    float: left;
+    margin-right: 10px;
+}
+.previous:hover {
+    background-color: #818181;
+}
+.next {
+    width: 80px;
+    height: 20px;
+    background-color: black;
+    color: white;
+    float: left;
+    margin-top: 2em;
+    text-align: center;
+    padding: 1em;
+}
+.next:hover {
+    background-color: white;
+    color: black;
+}
+.powered {
+    clear: both;
+    color: white;
+}
+.powered a {
+    text-decoration: none;
+    color: black;
+}
