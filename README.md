@@ -1,4 +1,4 @@
-# Personal Website 
+# Personal blog 
 
 Overview
 This project is a personal website built with Next.js and deployed on Vercel.  
